@@ -2,7 +2,7 @@
 
 This repository contains coding problems that I have created with my experience in competitive programming
 
-## Files Used
+## Files Description
 Each Problem Contains :
 * **Input :** Input Files
 * **Output :** Output Files
